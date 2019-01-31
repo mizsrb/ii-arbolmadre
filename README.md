@@ -10,6 +10,7 @@ Estructura general del repositorio:
 - **/src**: contiene el proyecto Unity (para Windows 10).
 - **/img**: imágenes de este documento.
 - **Presentación Árbol Madre**: presentación de la aplicación en pdf.
+- **arbolmadre.apk**: aplicación lista para instalar en dispositivo Android.
 
 ## Uso
 
