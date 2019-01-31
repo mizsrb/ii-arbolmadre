@@ -31,13 +31,13 @@ Si, por el contrario, mueren el jugador o Artemisa antes de llegar al Árbol Mad
 ![Leñadores](img/leñador.png)
 
 **Flores mágicas**:  
-![Flores mágicas](img/flor.png)
+![Flores mágicas](img/flor.PNG)
 
 **Árbol madre**:  
 ![Árbol madre](img/arbol.png)
 
 **Spawn**:  
-![Piedra](img/spawn.png)
+![Piedra](img/spawn.PNG)
 
 ## Hitos del proyecto
 
